@@ -1,7 +1,7 @@
 # WebCalc
 
 Calculadora web. 
-Realiza operaciones aritméticas básicas.
+Realiza operaciones aritmétricas básicas.
 
 Tecnologías utilizadas:
 - HTML
